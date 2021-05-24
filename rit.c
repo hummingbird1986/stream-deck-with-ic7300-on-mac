@@ -22,4 +22,3 @@ serial_config(&serial_port, baud);
 write(serial_port, msg0, sizeof(msg0));
 close(serial_port);
 }
-
