@@ -21,11 +21,13 @@ This project currently work on macOS only.
  5.Run a command line
   
    ls /dev | grep cu
+   
    ![Screenshot 2021-06-08 at 10 29 09 PM](https://user-images.githubusercontent.com/39380985/121203905-0ee74d80-c8a9-11eb-840f-e764bae668a3.png)
 
    
  6.You should see something like this (for my case). This represents your FTDI Icom CI-V cable. It can be vary. Depends on what cable you have bought.
  
    cu.usbserial-AQ00SBWQ
+   
    ![Screenshot 2021-06-08 at 10 30 18 PM](https://user-images.githubusercontent.com/39380985/121204148-4524cd00-c8a9-11eb-82e1-b43ad6ff579f.png)
 
