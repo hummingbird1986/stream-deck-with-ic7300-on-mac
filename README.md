@@ -33,7 +33,7 @@ This project currently work on macOS only.
    
    ![Screenshot 2021-06-08 at 10 30 18 PM](https://user-images.githubusercontent.com/39380985/121204148-4524cd00-c8a9-11eb-82e1-b43ad6ff579f.png)
    
- # Create the Software:
+ # Create the Controller applications:
  
  1.Download this repository to your prefered location.
 
@@ -50,7 +50,7 @@ This project currently work on macOS only.
  
  ![Screenshot 2021-06-08 at 10 40 52 PM](https://user-images.githubusercontent.com/39380985/121206164-d34d8300-c8aa-11eb-996c-14c29c08ee6b.png)
 
- 4.It will create a "build" folder under "stream-deck-with-ic7300-on-mac" folder, which contains most of the controllers . Each application is one controllers. For instance, RIT.app that enables RIT function in your ic7300. RITOff.app will toggle the RIT off.
+ 4.It will create a "build" folder under "stream-deck-with-ic7300-on-mac" folder, which contains most of the Controllers . Each application is one Controllers. For instance, RIT.app that enables RIT function in your ic7300. RITOff.app will toggle the RIT off.
  
  # Work with Stream Deck 
  
