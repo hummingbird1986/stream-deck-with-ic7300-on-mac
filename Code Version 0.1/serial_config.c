@@ -6,7 +6,7 @@
 #include <string.h>
 
 int serial_config(int *fd, speed_t baud_rate){
-*fd = open("/dev/cu.usbserial-AQ00SBWQ", O_RDWR | O_NOCTTY );
+*fd = open("/dev/Your FTDI Cable Name", O_RDWR | O_NOCTTY );
 struct termios tty;
 
 if(tcgetattr(*fd, &tty) != 0) {
