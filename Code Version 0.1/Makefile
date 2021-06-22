@@ -14,4 +14,6 @@ all:
 		sed -e "s/UName/$${Name}/g" -i "" "./build/$${Name}.app/Contents/Info.plist"; \
 		echo "$${Name} has been compiled"; \
 	done
+	@echo
+	@echo "++++++++++++++++++++++++Compilation Complete!++++++++++++++++++++++++++++"
 
