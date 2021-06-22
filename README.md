@@ -2,7 +2,7 @@
 This project currently work on macOS only.
 
 # Hardware Preparation:
- 1.FTDI Icom CI-V Cat Control Programming Cable. I get it from here. I will use short form as FTDI Cable in following paragraph.
+ 1.FTDI Icom CI-V Cat Control Programming Cable. I get it from here. In short, I will call it as FTDI Cable in following paragraph.
  https://www.amazon.com/gp/product/B074JRWYRP/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
  
  2.macOS
