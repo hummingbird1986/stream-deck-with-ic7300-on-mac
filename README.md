@@ -48,7 +48,11 @@ This project currently work on macOS only.
   ![Screenshot 2021-06-08 at 10 40 25 PM](https://user-images.githubusercontent.com/39380985/121206086-c29d0d00-c8aa-11eb-8f69-f68f04ce7703.png)
   
   
- 3.Run the make command. (Kindly noted this command not done yet as the Makefile have't completed. You can't use it now).
+ 3.Look forserial_config.c file and open it in plain text editor. At row 8. look for “dev/your FTDI cable name”. Replace your FTDI cable name here.  After replacement, it should be looked like "/dev/cu.usbserial-AQ00SBWQ", for my case.
+ 
+ ![Screenshot 2021-06-22 at 11 11 26 PM](https://user-images.githubusercontent.com/39380985/122950869-64465300-d3af-11eb-8038-a32c54f5d0e3.png)
+ 
+ 4.Run make command. (Kindly noted this command not done yet as the Makefile have't completed. You can't use it now).
   
   make 
  
