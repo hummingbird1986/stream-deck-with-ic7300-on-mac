@@ -1,10 +1,6 @@
 # stream-deck-with-ic7300-on-mac
 This project currently work on macOS only.
 
-# *****************************
-# ***Coding not complete yet***
-# *****************************
-
 # Hardware Preparation:
  1.FTDI Icom CI-V Cat Control Programming Cable. I get it from here. I will use short form as FTDI Cable in following paragraph.
  https://www.amazon.com/gp/product/B074JRWYRP/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
@@ -58,7 +54,7 @@ This project currently work on macOS only.
  
  ![Screenshot 2021-06-08 at 10 40 52 PM](https://user-images.githubusercontent.com/39380985/121206164-d34d8300-c8aa-11eb-996c-14c29c08ee6b.png)
 
- 4.It will create a "build" folder under "stream-deck-with-ic7300-on-mac" folder, which contains most of the Controllers . Each application is one Controllers. For instance, RIT.app that enables RIT function in your ic7300. RITOff.app will toggle the RIT off.
+ 5.It will create a "build" folder under "stream-deck-with-ic7300-on-mac" folder, which contains most of the Controllers . Each application is one Controllers. For instance, RIT.app that enables RIT function in your ic7300. RITOff.app will toggle the RIT off.
  
  # Work with Stream Deck 
  
