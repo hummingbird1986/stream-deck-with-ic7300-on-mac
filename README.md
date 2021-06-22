@@ -6,7 +6,7 @@ This project currently work on macOS only.
 # *****************************
 
 # Hardware Preparation:
- 1.FTDI Icom CI-V Cat Control Programming Cable. I get it from here.
+ 1.FTDI Icom CI-V Cat Control Programming Cable. I get it from here. I will use short form as FTDI Cable in following paragraph.
  https://www.amazon.com/gp/product/B074JRWYRP/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
  
  2.macOS
@@ -16,7 +16,7 @@ This project currently work on macOS only.
  4.Stream Deck
  
  # Setup:
- 1.Plug it to Remote(CI-V) port and macOS computer. Not the common USB CI-V port.
+ 1.Plug FTDI Cable to Remote(CI-V) port and macOS computer. Not the common USB CI-V port.
  
  2.IC7300 -> Menu -> Set -> Connectors -> CI-V -> CI-V USB Port -> Unlink From [REMOTE]
  
